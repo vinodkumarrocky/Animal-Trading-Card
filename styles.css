@@ -1,0 +1,26 @@
+/* add your CSS here */
+img {
+  width:300px;
+}
+
+#container {
+  width:310px;
+}
+
+div{
+  border:2px solid lightgrey;
+  padding:10px;
+  border-radius:9px;
+}
+
+.animal-info{
+  font-style:italic;
+}
+
+span{
+  font-weight:bold;
+}
+
+ul{
+  list-style-type:none;
+}
